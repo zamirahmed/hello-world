@@ -12,3 +12,6 @@ Git Commands
 
 4. Push the code on origin master
 - git push origin master
+
+5. Pull the latest code from remote repository
+- git pull
