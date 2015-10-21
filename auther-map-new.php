@@ -7,8 +7,6 @@
 ?>
 <?php get_header(); ?>
 
-<?php //echo do_shortcode('[azindex content="true" filter="title" posttype="download" postcount="10"]'); ?>
-
 
 <style type="text/css">
  .acf-map {
